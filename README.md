@@ -25,7 +25,7 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-128_个资源-00A98F?style=flat-square" alt="已收录 128 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--25-00B4D8?style=flat-square" alt="检测时间 2026-11-25" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--26-00B4D8?style=flat-square" alt="检测时间 2026-11-26" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -226,7 +226,7 @@
 | [BT世界网](<https://www.btsj6.com>) | 高清电影美剧BT种子迅雷下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:btshijiewang -->🟢&#8288;可&#8288;访问<!-- /availability:btshijiewang --> | <!-- availability-date:btshijiewang -->2026&#8209;11&#8209;26<!-- /availability-date:btshijiewang --> |
 | [BT影视](<https://www.btbtla.com>) | 4k高清电影BT下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:bt-yingshi -->🟢&#8288;可&#8288;访问<!-- /availability:bt-yingshi --> | <!-- availability-date:bt-yingshi -->2026&#8209;11&#8209;26<!-- /availability-date:bt-yingshi --> |
 | [美剧粉](<https://www.mjf2020.com>) | 全部高清无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:meijufen -->🟢&#8288;可&#8288;访问<!-- /availability:meijufen --> | <!-- availability-date:meijufen -->2026&#8209;11&#8209;26<!-- /availability-date:meijufen --> |
-| [磁力熊](<https://www.cilixiong.org>) | 无删减、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilixiong -->🟢&#8288;可&#8288;访问<!-- /availability:cilixiong --> | <!-- availability-date:cilixiong -->2026&#8209;11&#8209;26<!-- /availability-date:cilixiong --> |
+| [磁力熊](<https://www.cilixiong.org>) | 无删减、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilixiong -->🔴&#8288;无法&#8288;访问<!-- /availability:cilixiong --> | <!-- availability-date:cilixiong -->2026&#8209;11&#8209;26<!-- /availability-date:cilixiong --> |
 | [爱努努](<https://video.ainunu.com/>) | 绿色影视下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ainunu -->🟢&#8288;可&#8288;访问<!-- /availability:ainunu --> | <!-- availability-date:ainunu -->2026&#8209;11&#8209;26<!-- /availability-date:ainunu --> |
 | [ACG.RIP](<https://acg.rip/>) | 磁力为主的动漫、OST发布，无广 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:acg-rip-10 -->🟢&#8288;可&#8288;访问<!-- /availability:acg-rip-10 --> | <!-- availability-date:acg-rip-10 -->2026&#8209;11&#8209;26<!-- /availability-date:acg-rip-10 --> |
 | [电影港网](<https://www.dyg22.com>) | 无水印4K高清BT种子资源 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dianyinggang -->🟢&#8288;可&#8288;访问<!-- /availability:dianyinggang --> | <!-- availability-date:dianyinggang -->2026&#8209;11&#8209;26<!-- /availability-date:dianyinggang --> |
